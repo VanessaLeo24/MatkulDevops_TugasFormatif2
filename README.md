@@ -2,6 +2,8 @@
 
 Nama : Vanessa Leonora | NIM : 201110311
 
+Project : Bookshelf App
+
 Fitur pada project ini :
 - Dapat menambahkan buku
 - Dapat mencari buku
